@@ -1,0 +1,124 @@
+.Signin-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: radial-gradient(circle, #fcf6cd, #cfe0b7, #a2cba7, #74b49e, #459c98);
+    width: 100vw;
+}
+.Signin-Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.Signin-Card-1{
+    width:fit-content;
+    height: 440px;
+}
+.SigninButton{
+    width: 80%;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color:lightgreen;
+    font-weight: bold;
+}
+.Signin-medias{.Signin-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height to 100vh to cover the entire viewport height */
+    background-image: radial-gradient(circle, #fcf6cd, #cfe0b7, #a2cba7, #74b49e, #459c98);
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.Signin-Form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Set height to 100% to fill the parent container */
+}
+
+.Signin-Card-1 {
+    width: fit-content;
+}
+
+.SigninButton {
+    width: 80%;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: blue;
+    font-weight: bold;
+}
+
+.Signin-medias {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Carousel-Container {
+    width: 50%; /* Set a percentage width to make the container responsive */
+    height: 100vh;
+}
+
+.Carousel-Card {
+    width: auto;
+    background-color: rgb(243, 243, 243);
+    height: 900px;
+}
+
+.Carousel-Container-1,
+.Carousel-Container-2,
+.Carousel-Container-3 {
+    width: 300px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.ant-carousel .slick-dots li button {
+    background-color: blue !important; /* Override Ant Design dot color */
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.Carousel-Button-2 {
+    background-color: lightgreen;
+}
+
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Carousel-Container{
+    width: 400px;
+}
+.Carousel-Card{
+    width: auto;
+    background-color:rgb(243, 243, 243);
+    height: 440px;
+}
+.Carousel-Container-1,.Carousel-Container-2,.Carousel-Container-3{
+    width: 300px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.ant-carousel .slick-dots li button {
+    background-color:blue !important;  /* this is used to oerwrite the antd design Change this to the desired background color */
+  }
+img{
+    width: 200px;
+    height: 200px;
+    margin:auto;
+}
+.Carousel-Button-2{
+    background-color: lightgreen;
+}
+

@@ -1,0 +1,45 @@
+.SignupPage-Container{
+    background-image: radial-gradient(circle, #fcf6cd, #cfe0b7, #a2cba7, #74b49e, #459c98);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SignupPage-Card{
+    width: 500px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.SignupPage-Heading{
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+.SignupPage-Button{
+    background-color: blue;
+    width: 80%;
+    height: 50px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.SignupPage-line{
+    display: flex;
+    justify-content: space-evenly;
+}
+.SignupPage-Medias{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ant-input-affix-wrapper{
+    height: 50px;
+}
+.SignupPage-Carousel-Card{
+    height: 720px;
+    width: 500px;
+}
+.SignupPage-Carousel-container-1,.SignupPage-Carousel-Container-2
+,.SignupPage-Carousel-Container-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}

@@ -1,0 +1,23 @@
+.ant-input-affix-wrapper{
+    height: 50px;
+}
+.FormHeading{
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+.line{
+    display: flex;
+
+}
+.SignupButton{
+    width: 80%;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: brown;
+    font-weight: bold;
+}
+.medias{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,39 @@
+.contentStyle{
+    color: #fff;
+    background-image: radial-gradient(circle, #fcf6cd, #cfe0b7, #a2cba7, #74b49e, #459c98);
+    display: flex;
+  }
+  .bodyContent{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    margin-top: 150px;
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  .Brand-Name{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 25%;
+  }
+  .bodyHead{
+  font-size: 50px;
+  margin-bottom: 1px;
+  color: black;
+  }
+  .bodyHead-sub{
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+  }
+  .bodyText{
+    font-size: 17px;
+    margin-top: 10px;
+    color: black;
+  }
+  .Signinform{
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+ 
